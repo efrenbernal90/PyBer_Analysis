@@ -5,6 +5,7 @@ Ride-share company 'Pyber' has asked for a summary of weekly fares on weekly bas
 1. Urban
 2. Suburban
 3. Rural
+
 And will include the following metrics:
 1. Total Rides
 2. Total Drivers
@@ -21,8 +22,8 @@ And will include the following metrics:
 
 ## Results
 ### Pyber Summary
-![Pyber_Summary]("analysis/pyber_summary.png")
+![Pyber_Summary](analysis/pyber_summary.png)
 
 ### Total Fares by City Type
-![Total Fare]("analysis/Total_Fare_City.png")
+![Total Fare](analysis/Total_Fare_City.png)
 
