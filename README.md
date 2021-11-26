@@ -22,8 +22,8 @@ And will include the following metrics:
 
 ## Results
 ### Pyber Summary
-![Pyber_Summary](analysis/pyber_summary.png)
+![PyberSummary](analysis/pyber_summary.png)
 
 ### Total Fares by City Type
-![Total Fare](analysis/Total_Fare_City.png)
+![TotalFare](analysis/Total_Fare_City.png)
 
